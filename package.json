@@ -1,0 +1,22 @@
+{
+  "name": "frontend-nanodegree-neighborhood-map",
+  "version": "1.0.0",
+  "description": "Udacity Front End Web Developer Nanodegree Course Neighborhood Map Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvdmon/front-end-nannodegree-neighborhood-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvdmon/front-end-nannodegree-neighborhood-map/issues"
+  },
+  "homepage": "https://github.com/dvdmon/front-end-nannodegree-neighborhood-map#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
